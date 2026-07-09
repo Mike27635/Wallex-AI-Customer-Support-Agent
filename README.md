@@ -14,6 +14,11 @@ staff spend time repeating the same standard answers. This agent gives
 customers instant, accurate answers for common issues, and falls back to a
 live web search for anything outside Wallex's own knowledge base.
 
+## Live Application
+Try the app here: https://wallex-ai-customer-support-agent-s7uzsehbntnrckcjdqnsbm.streamlit.app/
+
+## Project Walkthrough Video
+Watch the demo here: https://drive.google.com/file/d/1gtTD3R-4dpVPi_TOZ-1Vr5nNOBPF8nlB/view?usp=sharing
 ## How It Works
 This is a **single-agent** application built with LangChain + Groq (Llama 3.3
 70B) that:
