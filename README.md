@@ -3,10 +3,6 @@
 **Author:** Ihejiene Uchenna Micheal
 **Capstone Project — AI Bootcamp**
 
-## Live Application
-🔗 **App URL:** _add your deployed Streamlit URL here_
-🎥 **Video Walkthrough:** _add your Google Drive link here_
-
 ## Problem
 Customers contacting Wallex support often wait for a human agent to answer
 routine questions (KYC delays, missing deposits, transaction status), and
